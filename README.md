@@ -1,5 +1,5 @@
 
-# ChatGPT Clone
+# Spotify Clone
 
 ## Table of Contents
 
