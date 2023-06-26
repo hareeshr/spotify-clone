@@ -15,7 +15,7 @@
 
 This project is a clone of the popular music streaming service Spotify. The goal of this project is to create a web application that can view and play your Playlists from Spotify and control the playback on Spotify. The project will consist of a homepage that shows your Playlists, and a Playlist page with the list of Tracks in it. Users can sign in with Spotify to facilitate the features.
 
-[Demo Link](https://spotify-clone.hareeshr.me/)
+[Demo Link](https://spot-clone.hareeshr.me/)
 
 ### Built With
 
@@ -48,7 +48,7 @@ This project is a clone of the popular music streaming service Spotify. The goal
 **Vercel**
 Host your own live version of Chatbot UI with Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhareeshr%2Fspotify-clone&env=NEXTAUTH_URL,SPOTIFY_CLIENT_SECRET,SPOTIFY_CLIENT_ID,NEXTAUTH_SECRET&demo-title=Spotify%20Clone&demo-description=A%20functional%20Spotify%20clone&demo-url=https%3A%2F%2Fspotify-clone.hareeshr.me%2F)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhareeshr%2Fspotify-clone&env=NEXTAUTH_URL,SPOTIFY_CLIENT_SECRET,SPOTIFY_CLIENT_ID,NEXTAUTH_SECRET&demo-title=Spotify%20Clone&demo-description=A%20functional%20Spotify%20clone&demo-url=https%3A%2F%2Fspot-clone.hareeshr.me%2F)
     
 ## Run Locally
 **1. Clone Repo**
